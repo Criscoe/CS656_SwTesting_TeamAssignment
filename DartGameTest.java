@@ -1,5 +1,3 @@
-package NathanLoo;
-
 import static org.testng.Assert.*;
 import org.testng.annotations.*;
 
